@@ -1,5 +1,5 @@
 # Python_Data_and_Image
-파이썬을 활용해 데이터 분석과 이미지 처리를 배우는 과정
+파이썬을 활용해 데이터 분석과 이미지 처리를 배우는 과정. [동빈나 영상](https://www.youtube.com/playlist?list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C)일부를 colab환경에서 학습.
 
 
 ## Numpy
